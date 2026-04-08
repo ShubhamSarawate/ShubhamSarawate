@@ -64,22 +64,22 @@
 <h2 align="left">❤️ Let's connect:</h2>
 
 <p align="center">
-	<a href="https://github.com/AnuragPatil-cloud">
+	<a href="https://github.com/ShubhamSarawate">
 		<img alt="github" width="6%" src="https://skillicons.dev/icons?i=github"/>
 	</a>
 	&nbsp;&nbsp;&nbsp;
 
-<a href="https://www.linkedin.com/in/www.linkedin.com/in/anurag-patil-30488239b/">
+<a href="https://www.linkedin.com/in/www.linkedin.com/in/Shubham Sarawate/">
 		<img alt="linkedin" width="6%" src="https://skillicons.dev/icons?i=linkedin"/>
 	</a>
 	&nbsp;&nbsp;&nbsp;
 
-<a href="https://www.instagram.com/_i_am_anuragpatil_17/">
+<a href="https://www.instagram.com/shubham_sarawate/">
 		<img alt="instagram" width="6%" src="https://skillicons.dev/icons?i=instagram"/>
 	</a>
 	&nbsp;&nbsp;&nbsp;
 
-<a href="https://mail.google.com/mail/?view=cm&to=patilanurag1703@gmail.com">
+<a href="https://mail.google.com/mail/?view=cm&to=sarawateshubham981@gmail.com">
   <img alt="gmail" width="6%" src="https://skillicons.dev/icons?i=gmail"/>
 </a>
 </p>
